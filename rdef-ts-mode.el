@@ -1,5 +1,8 @@
 ;;; rdef-ts-mode.el --- tree-sitter support for RDef  -*- lexical-binding: t; -*-
 
+;;; SPDX-License-Identifier: MIT
+;;; SPDX-FileCopyrightText: 2023 Chris Roberts
+
 ;;; Commentary:
 
 ;;; Code:
